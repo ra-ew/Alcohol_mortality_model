@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593777679322.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4152100317",
+    "id" : "93F3388F",
+    "lastKnownWriteTime" : 1593777951,
+    "last_content_update" : 1593777951732,
+    "path" : "C:/Users/Ewelina/Desktop/R projects/Alcohol consumption panel/Alcohol_mortality_model/maps.R",
+    "project_path" : "maps.R",
+    "properties" : {
+        "cursorPosition" : "6,57",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
